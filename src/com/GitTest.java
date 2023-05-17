@@ -3,7 +3,7 @@ package com;
 import javax.crypto.spec.PSource;
 
 /**
- * @author ·½ÔÂÃ¶
+ * @author Â·Â½Ã”Ã‚ÃƒÂ¶
  * @version 1.0
  */
 public class GitTest {
@@ -15,5 +15,6 @@ public class GitTest {
         System.out.println("master test  ~~~~~~~~~");
         System.out.println("hot-fix test  ~~~~~~~~~");
         System.out.println("push test  ~~~~~~~~~");
+        System.out.println("pull test  ~~~~~~~~~");
     }
 }
